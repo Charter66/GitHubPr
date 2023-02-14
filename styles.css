@@ -9,11 +9,11 @@ h1 {
     background-color: purple;
 
 }
-/* .header-subContainer {
+.header-subContainer {
     display: flex;
     justify-content: space-between;
-    border: 10px solid black;
-} */
+    border: 10px solid blue;
+}
 button {
     color: white;
     background-color: red;
