@@ -2,3 +2,19 @@ h1 {
     color: red;
     font-size: large;
 }
+
+
+.header-container {
+    display: flex;
+    background-color: purple;
+
+}
+.header-subContainer {
+    display: flex;
+    justify-content: space-between;
+    border: 10px solid black;
+}
+button {
+    color: white;
+    background-color: red;
+}
